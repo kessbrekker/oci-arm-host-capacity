@@ -1,0 +1,38 @@
+{
+    "getAvailabilityDomains": {
+        "46370b89421aecf4b00860c6d28eeedb": [
+            {
+                "compartmentId": "ocid1.tenancy.oc1..aaaaaaaamxmbsbles4xr7xxnzt7lhj5jnvqc2annrpoeia4nk3q4mpzhdvbq",
+                "id": "ocid1.availabilitydomain.oc1..aaaaaaaaa2artt5wizbqvwl3rgptylx2l7jqbnyv4dygcfvlrd3dphvi3mdq",
+                "name": "aGgn:EU-FRANKFURT-1-AD-1"
+            },
+            {
+                "compartmentId": "ocid1.tenancy.oc1..aaaaaaaamxmbsbles4xr7xxnzt7lhj5jnvqc2annrpoeia4nk3q4mpzhdvbq",
+                "id": "ocid1.availabilitydomain.oc1..aaaaaaaalcdcbl7u6akbmkojxhrozpj2v7yavqqydkj3ytyjbt47lnoqnm2q",
+                "name": "aGgn:EU-FRANKFURT-1-AD-2"
+            },
+            {
+                "compartmentId": "ocid1.tenancy.oc1..aaaaaaaamxmbsbles4xr7xxnzt7lhj5jnvqc2annrpoeia4nk3q4mpzhdvbq",
+                "id": "ocid1.availabilitydomain.oc1..aaaaaaaaiifj24st3w4j7cowuo3pmqcuqwjapjv435vtjmgh5j7q3flguwna",
+                "name": "aGgn:EU-FRANKFURT-1-AD-3"
+            }
+        ],
+        "e2b585897fe06ecc493c7fb6e7162e89": [
+            {
+                "compartmentId": "ocid1.tenancy.oc1..aaaaaaaamxmbsbles4xr7xxnzt7lhj5jnvqc2annrpoeia4nk3q4mpzhdvbq",
+                "id": "ocid1.availabilitydomain.oc1..aaaaaaaaa2artt5wizbqvwl3rgptylx2l7jqbnyv4dygcfvlrd3dphvi3mdq",
+                "name": "aGgn:EU-FRANKFURT-1-AD-1"
+            },
+            {
+                "compartmentId": "ocid1.tenancy.oc1..aaaaaaaamxmbsbles4xr7xxnzt7lhj5jnvqc2annrpoeia4nk3q4mpzhdvbq",
+                "id": "ocid1.availabilitydomain.oc1..aaaaaaaalcdcbl7u6akbmkojxhrozpj2v7yavqqydkj3ytyjbt47lnoqnm2q",
+                "name": "aGgn:EU-FRANKFURT-1-AD-2"
+            },
+            {
+                "compartmentId": "ocid1.tenancy.oc1..aaaaaaaamxmbsbles4xr7xxnzt7lhj5jnvqc2annrpoeia4nk3q4mpzhdvbq",
+                "id": "ocid1.availabilitydomain.oc1..aaaaaaaaiifj24st3w4j7cowuo3pmqcuqwjapjv435vtjmgh5j7q3flguwna",
+                "name": "aGgn:EU-FRANKFURT-1-AD-3"
+            }
+        ]
+    }
+}
